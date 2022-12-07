@@ -1,0 +1,145 @@
+#-------------------------------------------
+# Commonly used
+#-------------------------------------------
+
+-Open keyboard shortcut
+    -Ctrl + K + Ctrl + S
+
+-Open setting
+    -Ctrl + ,
+
+-Navigate through menu bar (Upper)
+    -Alt
+
+-Show All commands
+    -Ctrl + Shift + p
+
+-Delete current editor tap
+    -Ctrl + F4
+
+-Editor Font incrrease
+    -Ctrl + Shift + =
+
+-Editor Font decrease
+    -Ctrl + Shift + -
+
+-Zoom In
+    -Ctrl + =
+
+-Zoom out
+    -Ctrl + -
+#------------------------------------
+#Find
+
+-Find
+    -Ctrl + F
+
+-Find next/replace
+    -F3 / Shift + F3
+
+#------------------------------------
+#Tabs navigation
+
+-Open the current editor tab in a new window
+    -Ctrl + K, o
+
+-Split Editor
+    -Ctrl + \
+
+-Go to open tabs
+    -Alt+1, Alt+2, ...
+
+-Focus back to the editor
+    -Ctrl + 1
+
+#------------------------------------
+#Show/Hide
+
+-Show panel (terminals etc)
+    -Ctrl + J
+
+-Show Activity bar
+    -Ctrl + Alt + B
+
+-Show Side bar
+    -Ctrl + B
+
+-Toggle Menu bar
+    -Ctrl + Alt + s
+    -Alt
+
+-Show Problems Panel
+    -Ctrl + Shift + m
+
+#------------------------------------
+#Show suggestion
+
+-Show suggestion
+    -Ctrl + space
+
+-Show parameter hints
+    -Ctrl + Shift + space
+
+-Quick fix
+    -Ctrl + .
+
+#------------------------------------
+#Documentation and Definitions
+
+-Go to definition
+    -F12
+
+-Peak definition
+    -Ctrl + Shift + F10
+
+-Show docstring
+    -Hover mouse over 
+    -Ctrl + K + Ctrl + I
+
+#------------------------------------
+-Run selected lines
+    -Ctrl + Enter
+
+
+
+
+
+#------------------------------------
+#Interactive Window
+
+-Run line in the interactive view
+    -#%%
+
+
+#------------------------------------
+#Folding
+
+#------------------------------------
+#installed packages
+
+
+
+#------------------------------------
+
+
+#------------------------------------
+#------------------------------------
+#------------------------------------
+
+#------------------------------------
+#------------------------------------
+#------------------------------------
+
+#------------------------------------
+#------------------------------------
+#------------------------------------
+#------------------------------------
+
+#------------------------------------
+#------------------------------------
+#------------------------------------
+#------------------------------------
+#------------------------------------
+
+
+

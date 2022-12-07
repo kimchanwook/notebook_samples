@@ -1,0 +1,228 @@
+#--------------------------------------------------------------------------------------
+# Commonly used
+#--------------------------------------------------------------------------------------
+
+-Find any action /  classes/ files / symbols
+    -Ctrl + Shift + A
+    -Shift + Shift
+
+-Show main main (only in linux)
+    -Ctrl + Alt + Shift + z
+
+#--------------------------------------------------------------------------------------
+# Editor edits
+#--------------------------------------------------------------------------------------
+
+-Show setting
+    -Ctrl + Alt + S
+
+-Collapsing
+    -Always use Selection folding. Everything else could be confusing
+        -Ctrl + .
+    -Last line of the block must be un-commented line
+
+    -Collapse/open current blocks
+        -Ctrl + -
+        -Ctrl + =
+
+    -Collapse/Open all code cells
+        -Ctrl + Shift + -
+        -Ctrl + Shift + =
+
+-Comment out
+    -Ctrl + /
+
+-Increase/Decrease/reset font sizes
+    -Ctrl + Alt + Shift + =
+    -Ctrl + Alt + Shift + -
+    -Ctrl + Alt + Shift + 0
+
+
+#--------------------------------------------------------------------------------------
+#Suggestions
+#--------------------------------------------------------------------------------------
+
+-Show suggestion
+    -Ctrl + space
+
+-Shows inaccessible classes and members as well as static fields and methods.
+    -Ctrl + space + space
+    
+-all classes throughout the project, regardless of the dependencies
+    -Ctrl + space + space + space
+
+-Fix problem - Context Actions / Intention Actions
+    -Alt + Enter
+
+#--------------------------------------------------------------------------------------
+# Run code or lines
+#--------------------------------------------------------------------------------------
+
+-Run code cell in python console
+    -Ctrl + Enter
+
+-Run python console of selected lines only
+    -Alt + Shift + E
+
+-Run the whole script in TERMINAL
+    -Shift + F10
+
+
+#--------------------------------------------------------------------------------------
+# Hide/Open tabs
+#--------------------------------------------------------------------------------------
+
+-Open/Hide certain tool window
+    -Alt + 1, Alt + 2, ...
+    -Sciview Open set to Alt+2, but closing doesn't work somehow
+
+-Hide Active tool window
+    -Shift + ESC
+
+-Hide/View Tool Window Bars
+    -Ctrl + M
+
+-Hide/View All Tool Windows
+    -Ctrl + Shift + m
+
+
+#--------------------------------------------------------------------------------------
+# Windows management
+#--------------------------------------------------------------------------------------
+-Naviagte between tabs
+    -To go to last: To show list of tabs
+        -Ctrl + Tab
+    -To get left/right tabs
+        -Alt + left/right
+
+-Split window Right
+    -Ctrl + ,
+
+-Split window Down
+    -Ctrl + Shift + ,
+
+#--------------------------------------------------------------------------------------
+#Search and Find
+#--------------------------------------------------------------------------------------
+
+-Find any action
+    -Ctrl + Shift + A
+
+-Find text in edit
+    -Ctrl - F
+
+-Find and replace
+    -Ctrl - R
+    -If wants subsection of code to do Find and Replace, highlight the subsection
+
+#--------------------------------------------------------------------------------------
+#Definitions and documentations
+#--------------------------------------------------------------------------------------
+
+-Quick documentation 
+    -Ctrl + Q
+
+-Quick definition
+    -Ctrl + Shift + i
+
+-Show source code in "Show definition panel"
+    -F4
+
+-External documentation (highlight)
+    -Shift + F1
+
+-Show usage
+    -Alt + F7
+
+-Parameter Info
+    -Ctrl + P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#------------------------------------
+#------------------------------------
+#------------------------------------
+# Configure to Make faster 
+
+- Editor -> Inspections -> Python inspections disabled
+
+- Editor/Intentions enabled -> The light bulb that pops up for educational purposes
+
+- System -> Updates -> No Check for plugin updates
+
+- Remove gutter icons bar
+    -Go to Settings -> Editor -> General -> Gutter Icon and uncheck the Show gutter icons.
+
+-Font + Line spacings in code
+    -Editor -> Font
+        -JetBrains Mono, size 12, lineheight 0.8
+
+
+#------------------------------------
+#------------------------------------
+#------------------------------------
+
+#------------------------------------
+#------------------------------------
+#------------------------------------
+#------------------------------------
+# Disabled / Changed features
+
+3. Code folding - unchecked ALL
+    -This makes pycharm to remember the folding at restart
+
+- Disables Intentions 
+
+#------------------------------------
+#------------------------------------
+#------------------------------------
+#------------------------------------
+#------------------------------------
+# What can't be done in pycharm
+
+1. Code completion
+    -pandas dataframe columns names do not show up as suggestions
+        -Jupyter notebook books suggestions have this feature
+        
+#------------------------------------
+#------------------------------------
+#------------------------------------
+#------------------------------------
+#------------------------------------
+#Changed kepmaps (not all)
+
+-Hide/View Tool Window Bars
+    -Ctrl + m
+
+-Hide/View All Tool Windows
+    -Ctrl + Shift + m
+
+-Delete line in editor
+    -Ctrl + d
+
+-Split window Right
+    -Ctrl + ,
+
+-Split window Down
+    -Ctrl + Shift + ,
+
+
+
+
+
